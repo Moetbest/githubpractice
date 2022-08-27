@@ -2,3 +2,79 @@
     color: #00D160;
     margin: 0 20px;
 }
+
+.hello{
+    position: absolute;
+    width: 84px;
+    height: 23px;
+    left: 102px;
+    top: 264px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.7);
+
+}
+
+.oghene{
+    color: #00D160;
+}
+
+.oke{
+    position: absolute;
+    width: 377px;
+    height: 38px;
+    left: 96px;
+    top: 313px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7)
+}
+
+.a{
+    position: absolute;
+    width: 410px;
+    height: 23px;
+    left: 102px;
+    top: 388px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+input{
+    position: absolute;
+    width: 577px;
+    height: 72px;
+    top: 466px;
+    left: 102px;
+    padding: 10px 30px;
+    border-radius: 35px;
+    border: 2px solid #00D160
+}
+
+button{
+    position: absolute;
+    width: 203px;
+    height: 62px;
+    top: 471px;
+    left: 470px;
+    border: none;
+    border-radius: 35px;
+    background: #00D160;
+    color: #FFFFFF;
+}
